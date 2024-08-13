@@ -1,0 +1,22 @@
+Propriedades de p1:
+Data: 15/08/2024
+Hora: 10:30:00
+Nome do Paciente: Milena Andrade
+Nome do Medico: Dr. Tuller
+Total de consultas agendadas: 1
+------------------------------
+Propriedades de p2:
+Data: 16/06/2024
+Hora: 11:04:07
+Nome do Paciente: Milena
+Nome do Medico: Bruno
+Total de consultas agendadas: 3
+------------------------------
+Propriedades de p1 apos alteracao:
+Data: 20/10/2023
+Hora: 08:06:03
+Nome do Paciente: Katia
+Nome do Medico: Paulo
+Total de consultas agendadas: 2
+------------------------------
+Quantidade final de consultas: 2
